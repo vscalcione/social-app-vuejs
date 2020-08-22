@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+
+.relative {
+  position: relative;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hover {
+  cursor: pointer;
+}
+
+.primario {
+  background: #32bcc3 !important;
+}
+.secundario  {
+  background: #723881 !important;
+}
+.background {
+  background: #d2fafb;
+}
+.gray {
+  background: #d6dfe2 !important;
+}
+.text-secundario {
+  color: #191c1e;
+}
+.background-secundario {
+  background: #191c1e;
+}
